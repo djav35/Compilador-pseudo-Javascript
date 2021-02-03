@@ -1,2 +1,2 @@
 # Proyecto Procesadores de Lenguajes
-Compilador de pseudo JavaScript
+Compilador de pseudo JavaScript realizado en Java
