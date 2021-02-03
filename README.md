@@ -1,1 +1,2 @@
-# Compilador-pseudo-Javascript
+# Proyecto Procesadores de Lenguajes
+Compilador de pseudo JavaScript
